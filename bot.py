@@ -9,8 +9,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # TOKENNI o'rnatish
-TOKEN = "7638494951:AAHIB_5bVJp0MqCw9FmX2yZ1kLmN3oPqR"  # ← O'ZINGIZNING TOKENNI QO'YING!
-
+TOKEN = "7638494951:AAHIB_5bVJp0MqCw9FmX2yZ1kLmN3oPqR"  
 bot = Bot(token=TOKEN)
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
