@@ -9,7 +9,7 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.storage.memory import MemoryStorage
 
 # TOKENNI o'rnatish
-TOKEN = "7638494951:AAHIB_5bVJp0MqCw9FmX2yZ1kLmN3oPqR"  
+TOKEN = 8545471952:AAH1tCgLuffjh-ltmdPsmu8mqX7r-kXMAno
 bot = Bot(token=TOKEN)
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
