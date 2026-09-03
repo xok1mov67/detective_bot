@@ -1,0 +1,527 @@
+[
+  {
+    "id": 1,
+    "title": "🏚️ 'Qora Ko‘l' Qasridagi Tupuk va Choy Siri",
+    "story": "Toshkent viloyati, Tog‘li qarorgoh. Noyabrning sovuq va yomg‘irli tunida taniqli kolleksioner Alisher Vohidov o‘z kottedjida o‘lik holda topildi. Jasadi ish xonasidagi charm kresloda, ko‘kragiga qadimiy xanjarcha urilgan. Soat 23:45 da to‘xtagan.",
+    "suspects": ["Bekzod Vohidov", "Elena", "Doktor Otabek"],
+    "clues": [
+      "Stolda ikkita chinni piyola: birida issiq ko‘k choy, ikkinchisi bo‘sh tubida tupuk va choy quyqasi",
+      "Kamin yonida suv tomchilaridan nam doira",
+      "Balkon eshigi ochiq, panjarada loy izlari"
+    ],
+    "correct": "Bekzod Vohidov",
+    "hint": "Yomg‘irda ochiq balkon va issiq choy bir-biriga zid",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 2,
+    "title": "❄️ Akademik va Muzlagan Kabinet",
+    "story": "Toshkent, Ilmiy-tadqiqot instituti. Fevral oyining qahraton qishi (-15°C). Akademik Akmal Yoqubov shaxmat taxtasi oldida o‘tirgan holda, boshi orqasidan bronza haykalcha bilan urib o‘ldirilgan.",
+    "suspects": ["Jamshid", "Sobir aka", "Professor Karimov"],
+    "clues": [
+      "Stolda ikkita finjon kofe: biri qurigan, ikkinchisi muzlagan",
+      "Batareya o‘chirilgan, xona +2°C",
+      "Elektr isitgich simi rozetkadan sug‘urilgan"
+    ],
+    "correct": "Jamshid",
+    "hint": "+2°C da kofe muzlaydimi?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 3,
+    "title": "🚪 Yopiq Xonadagi O‘lim",
+    "story": "Toshkent markazidagi 5-qavatli binoda yolg‘iz yashovchi 60 yoshli ayol o‘lik holda topildi. Xona ichkaridan qulflangan, derazalar yopiq. Jasadda zaharlanish alomatlari bor.",
+    "suspects": ["Qo‘shni Ayol", "O‘g‘li", "Farrosh"],
+    "clues": [
+      "Stolda choy va bir bo‘lak tort, tortda siyanid izlari",
+      "Xonada hech qanday shikastlanish yo‘q",
+      "Farrosh xonani tozalaganini aytgan"
+    ],
+    "correct": "Farrosh",
+    "hint": "Kim tortga osongina yetib olgan?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 4,
+    "title": "💰 Muzeydagi Qimmatbaho Tosh O‘g‘irligi",
+    "story": "Muzeydan 10 million so‘mlik qimmatbaho tosh o‘g‘irlandi. Kamerada 3 kishi ko‘rilgan. Tosh maxsus shisha vitrinada saqlanardi.",
+    "suspects": ["Ali", "Sardor", "Lola"],
+    "clues": [
+      "Ali muzeyda ishlaydi, kecha kech qolgan",
+      "Sardor yangi mashina sotib olgan",
+      "Lolaning qo‘lqopida tosh changi bor"
+    ],
+    "correct": "Lola",
+    "hint": "Qo‘lqopdagi changni tekshiring",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 5,
+    "title": "🌿 Bog‘dagi Sirli Qotillik",
+    "story": "Katta bog‘da ishlovchi bog‘bon o‘lik holda topildi. Uning yonida zaharli o‘simlik qoldiqlari va bir stakan suv bor.",
+    "suspects": ["Xo‘jayin", "Bog‘bon Yordamchisi", "Muhandis"],
+    "clues": [
+      "Stakanda zahar izlari bor",
+      "Bog‘bon yordamchisi o‘simliklarni yaxshi biladi",
+      "Xo‘jayin bog‘bonga qarz edi"
+    ],
+    "correct": "Bog‘bon Yordamchisi",
+    "hint": "Zaharli o‘simliklarni kim biladi?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 6,
+    "title": "🖼️ Rasm Galereyasidagi O‘g‘irlik",
+    "story": "Mashhur rassomning qimmatbaho rasmi galereyadan o‘g‘irlandi. Galereya yopiq edi, faqat 3 xodim bor edi.",
+    "suspects": ["Qorovul", "Kurator", "Rassom"],
+    "clues": [
+      "Kamerada kimdir yuzini niqoblab yurgan",
+      "Rasmning ramkasi sindirilgan",
+      "Kurator sug‘urta puli olmoqchi edi"
+    ],
+    "correct": "Kurator",
+    "hint": "Rasmni kim sug‘urtalagan?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 7,
+    "title": "📞 Telefondagi Qo‘rqitish",
+    "story": "Taniqli siyosatchi o‘z uyida o‘lik holda topildi. Telefonida noma’lum raqamdan qo‘rqituvchi qo‘ng‘iroqlar bor edi.",
+    "suspects": ["Oshpaz", "Haydovchi", "Kotib"],
+    "clues": [
+      "Telefon yozuvlari o‘chirilgan",
+      "Haydovchi kecha uyda yo‘q edi",
+      "Kotib siyosatchidan ishdan bo‘shatilgan"
+    ],
+    "correct": "Kotib",
+    "hint": "Ishdan bo‘shatilgan kim?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 8,
+    "title": "🚗 Avtohalokat yoki Qotillik?",
+    "story": "Mashhur tadbirkor o‘z mashinasida halokatga uchrab vafot etdi. Biroq suv tizimida tormoz suyuqligiga benzin aralashgani aniqlandi.",
+    "suspects": ["Muhandis", "Raqib", "Xotini"],
+    "clues": [
+      "Mashinaga faqat 3 kishi yaqinlasha olgan",
+      "Raqib kompaniyani sotib olmoqchi edi",
+      "Xotini eriga xiyonat qilgan"
+    ],
+    "correct": "Muhandis",
+    "hint": "Tormoz tizimini kim yaxshi biladi?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 9,
+    "title": "💊 Klinikadagi Sirli O‘lim",
+    "story": "Taniqli shifokor o‘z klinikasida g‘oyib bo‘ldi. Ertasi kuni uning jasadi muzlatgichda topildi. Barcha xodimlar ishda edi.",
+    "suspects": ["Hamshira", "Labarant", "Bosh Shifokor"],
+    "clues": [
+      "Muzlatgichda izlar bor",
+      "Labarant kecha kech qolgan",
+      "Bosh Shifokor o‘rniga bo‘sh ish o‘rin olishni xohlaydi"
+    ],
+    "correct": "Labarant",
+    "hint": "Muzlatgichga kim kirish huquqiga ega?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 10,
+    "title": "🔥 Yong‘in yoki Qasddan O‘t Qo‘yish?",
+    "story": "Katta omborda yong‘in sodir bo‘ldi, 5 kishi halok bo‘ldi. Yong‘in o‘chiruvchilari omborda yonish tezlatgichi izlarini topdi.",
+    "suspects": ["Omborchi", "Sug‘urta Agenti", "Ishchi"],
+    "clues": [
+      "Omborchi sug‘urta polisini yangilagan",
+      "Ishchi ishdan bo‘shatilgan",
+      "Sug‘urta agenti komissiya olgan"
+    ],
+    "correct": "Omborchi",
+    "hint": "Sug‘urta pullarini kim oladi?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 11,
+    "title": "🎭 Teatrdagi Qotillik",
+    "story": "Mashhur aktyor spektakl paytida sahnada haqiqiy qon bilan yiqildi. Kimdir haqiqiy pichoqni rekvizitga almashtirgan.",
+    "suspects": ["Raqib Aktyor", "Rejissyor", "Grimchi"],
+    "clues": [
+      "Raqib aktyor bosh rolni xohlaydi",
+      "Rejissyor aktyorni yoqtirmas edi",
+      "Grimchi pichoqni ko‘rgan"
+    ],
+    "correct": "Raqib Aktyor",
+    "hint": "Bosh rolni kim olmoqchi?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 12,
+    "title": "🏨 Mehmonxonadagi Sirli O‘lim",
+    "story": "5 yulduzli mehmonxonada boy turist o‘lik holda topildi. Xona ichkaridan qulflangan, deraza ochiq.",
+    "suspects": ["Xizmatkor", "Mehmonxona Egasi", "Tarjimon"],
+    "clues": [
+      "Xizmatkorning barmoq izi stakanda",
+      "Egasi qimor qarziga botgan",
+      "Tarjimon tun bo‘yi yo‘q edi"
+    ],
+    "correct": "Xizmatkor",
+    "hint": "Stakandagi barmoq izi",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 13,
+    "title": "📚 Kutubxonadagi O‘g‘irlik",
+    "story": "Kutubxonaning noyob kitobi o‘g‘irlandi. Kitob so‘nggi marta 3 talaba ko‘rgan.",
+    "suspects": ["Talaba 1", "Talaba 2", "Talaba 3"],
+    "clues": [
+      "Talaba 1 da kitob izlari",
+      "Talaba 2 kutubxonachi bilan janjallashgan",
+      "Talaba 3 kitobni sotmoqchi bo‘lgan"
+    ],
+    "correct": "Talaba 3",
+    "hint": "Kitobni kim sotmoqchi?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 14,
+    "title": "⛲ Favvoradagi Qotillik",
+    "story": "Shahar favvorasida bir odam cho‘kib o‘lgan holda topildi. Lekin suv sayoz, cho‘kish imkonsiz.",
+    "suspects": ["Do‘sti", "Xotini", "Ishdoshi"],
+    "clues": [
+      "Do‘sti qarz so‘ragan",
+      "Xotini meros oladi",
+      "Ishdoshi lavozimga intiladi"
+    ],
+    "correct": "Xotini",
+    "hint": "Merosni kim oladi?",
+    "difficulty": "oson",
+    "reward": 10
+  },
+  {
+    "id": 15,
+    "title": "🔪 Qonli Pichoq va Ichkaridan Yopiq Eshik",
+    "story": "Yolg‘iz yashovchi odam o‘z xonasida pichoqlangan holda topildi. Eshik ichkaridan qulflangan, derazalar yopiq. Qotil qanday qochgan?",
+    "suspects": ["Qo‘shnisi", "Akasi", "Xizmatkori"],
+    "clues": [
+      "Xonada musiqali soat to‘xtagan",
+      "Akasi tun kelgan",
+      "Xizmatkorda qonli qo‘lqop bor"
+    ],
+    "correct": "Xizmatkori",
+    "hint": "Xonaga kim osongina kirishi mumkin?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 16,
+    "title": "🌊 Daryodagi Sirli Jasad",
+    "story": "Daryodan taniqli biznesmenning jasadi chiqdi. O‘pkasi suvga to‘lgan, ammo qo‘llarida arqon izlari bor.",
+    "suspects": ["Hamkori", "Raqibi", "Sug‘urtachi"],
+    "clues": [
+      "Hamkori kompaniyani sotib olgan",
+      "Raqibi yiqilishini xohlagan",
+      "Sug‘urtachi polisni to‘lagan"
+    ],
+    "correct": "Hamkori",
+    "hint": "Kompaniyani kim egalladi?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 17,
+    "title": "🏡 O‘rmondagi Dacha Qotilligi",
+    "story": "O‘rmondagi dachada 4 kishi dam olayotgan edi. Ertalab ulardan biri o‘lik topildi. Uyqusizlik dorisi haddan oshirilgan.",
+    "suspects": ["Do‘st 1", "Do‘st 2", "Mezbon"],
+    "clues": [
+      "Dori faqat mezbon retsepti bilan olinadi",
+      "Do‘st 1 marhumga qarz edi",
+      "Do‘st 2 marhum bilan janjallashgan"
+    ],
+    "correct": "Mezbon",
+    "hint": "Dorini kim yozib bergan?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 18,
+    "title": "🎨 Rassomning Sirli O‘limi",
+    "story": "Mashhur rassom studiyasida o‘lik holda topildi. Uning eng so‘nggi suratida qandaydir kod qolgan.",
+    "suspects": ["Model", "Raqib Rassom", "Savdogar"],
+    "clues": [
+      "Suratdagi kod bir so‘zni anglatadi",
+      "Raqib rassom uning ishlarini nusxalagan",
+      "Savdogar qalbaki rasmlarni sotgan"
+    ],
+    "correct": "Raqib Rassom",
+    "hint": "Suratdagi kodni yeching",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 19,
+    "title": "🚢 Kemada Qotillik",
+    "story": "Kemada sayohat paytida bir yo‘lovchi o‘lik topildi. Kemada jami 5 yo‘lovchi bor.",
+    "suspects": ["Kema Kaptani", "Mehmon 1", "Mehmon 2"],
+    "clues": [
+      "Kaptan tun bo‘yi ko‘prikda edi",
+      "Mehmon 1 qimor yutqazgan",
+      "Mehmon 2 merosxo‘r"
+    ],
+    "correct": "Mehmon 2",
+    "hint": "Merosni kim oladi?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 20,
+    "title": "💎 Olmos Va Qonli Qo‘lqop",
+    "story": "Taniqli zargar o‘z ustaxonasida o‘ldirildi, 5 karatlik olmos g‘oyib bo‘ldi. Qonli qo‘lqop topildi.",
+    "suspects": ["Shogird", "Xaridor", "Qo‘riqchi"],
+    "clues": [
+      "Shogird olmosni sotishga uringan",
+      "Xaridor narxni pasaytirmoqchi bo‘lgan",
+      "Qo‘riqchi tungi vaqtda yo‘q edi"
+    ],
+    "correct": "Shogird",
+    "hint": "Olmosga kim yaqin edi?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 21,
+    "title": "🧪 Kimyogar va Zaharli Probirka",
+    "story": "Mashhur kimyogar laboratoriyasida o‘lik topildi. Yonida zaharli probirka va eslatma bor.",
+    "suspects": ["Yordamchi", "Hamkasb", "Menejer"],
+    "clues": [
+      "Probirkada faqat yordamchi barmoq izi",
+      "Hamkasb kashfiyotni o‘g‘irlagan",
+      "Menejer byudjetni kesgan"
+    ],
+    "correct": "Yordamchi",
+    "hint": "Probirkada kimning barmoq izi?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 22,
+    "title": "🕯️ Shamli Xonadagi Qotillik",
+    "story": "Elektr o‘chgan paytda, sham yorug‘ida bir odam o‘ldirilgan. Xonada hech qanday chiroq yo‘q.",
+    "suspects": ["Xizmatkor", "Mehmon", "Egasi"],
+    "clues": [
+      "Sham qotillik vaqtida yonayotgan edi",
+      "Xizmatkor shamni almashtirgan",
+      "Mehmon tumanda adashgan"
+    ],
+    "correct": "Xizmatkor",
+    "hint": "Shamni kim o‘chira oladi?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 23,
+    "title": "🏥 Kasalxonadagi Sirli O‘lim",
+    "story": "Kasalxonada yotgan boy odam tungi vaqtda vafot etdi. Unga emas, balki qo‘shni bemorga beriladigan dori berilgan.",
+    "suspects": ["Hamshira", "Shifokor", "Kasalxona Boshlig‘i"],
+    "clues": [
+      "Hamshira dori xatoga yo‘l qo‘ygan",
+      "Shifokor marhum bilan janjallashgan",
+      "Boshliq qimmat dori sotgan"
+    ],
+    "correct": "Hamshira",
+    "hint": "Dorilarni kim tarqatadi?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 24,
+    "title": "🔫 O‘q Va Yopiq Hovli",
+    "story": "Yopiq hovlida otib o‘ldirilgan odam topildi. Hovliga kirish faqat bitta darvozadan.",
+    "suspects": ["Qo‘shni", "Xizmatkor", "Qorovul"],
+    "clues": [
+      "Darvozada qo‘shnining izlari",
+      "Xizmatkor o‘q ovozini eshitgan",
+      "Qorovul o‘sha payt uxlagan"
+    ],
+    "correct": "Qo‘shni",
+    "hint": "Hovliga kim kira oladi?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 25,
+    "title": "🍷 Vino Qabridagi Qotillik",
+    "story": "Qadimiy vino qabrida ishlovchi ishchi o‘lik topildi. Qabrda qotilning izlari yo‘q.",
+    "suspects": ["Egasi", "Muhandis", "Ishchi Do‘sti"],
+    "clues": [
+      "Egasi qabrni yopishni buyurgan",
+      "Muhandis xavfsizlikni o‘rnatgan",
+      "Ishchi do‘sti marhum bilan janjallashgan"
+    ],
+    "correct": "Egasi",
+    "hint": "Qabrni kim yopgan?",
+    "difficulty": "o‘rta",
+    "reward": 10
+  },
+  {
+    "id": 26,
+    "title": "🌋 Vulkan Yonidagi Sir",
+    "story": "Vulkan yonida turistik lagerda bir sayyoh o‘lik topildi. Uning tanasida kuyish izlari bor.",
+    "suspects": ["Gid", "Sayyoh 1", "Sayyoh 2"],
+    "clues": [
+      "Gid vulkan yaqiniga olib borgan",
+      "Sayyoh 1 qimmatbaho buyumlarni o‘g‘irlagan",
+      "Sayyoh 2 sug‘urta olgan"
+    ],
+    "correct": "Gid",
+    "hint": "Vulkanga kim olib bordi?",
+    "difficulty": "qiyin",
+    "reward": 10
+  },
+  {
+    "id": 27,
+    "title": "🎬 Kino Kadridagi Qotillik",
+    "story": "Film suratga olish paytida aktyor haqiqiy qon bilan yiqildi. Uning qo‘lidagi qo‘g‘irchoqda qotilning izlari bor.",
+    "suspects": ["Rejissyor", "Kameraman", "Ssenarist"],
+    "clues": [
+      "Rejissyor aktyorni yoqtirmasdi",
+      "Kameraman kadrni o‘chirgan",
+      "Ssenarist aktyorga qarz edi"
+    ],
+    "correct": "Rejissyor",
+    "hint": "Kim aktyor o‘rnini egallaydi?",
+    "difficulty": "qiyin",
+    "reward": 10
+  },
+  {
+    "id": 28,
+    "title": "🏯 Qadimiy Qal’adagi Xazina Siri",
+    "story": "Qadimiy qal’ada xazina topilgan, lekin uni qo‘riqlash uchun yollangan odam o‘lik holda topildi. Xazina g‘oyib bo‘lgan.",
+    "suspects": ["Arxeolog", "Qo‘riqchi", "Mahalliy"],
+    "clues": [
+      "Arxeolog xazinani olib qochgan",
+      "Qo‘riqchi tunda uxlagan",
+      "Mahalliy qal’ani yaxshi biladi"
+    ],
+    "correct": "Arxeolog",
+    "hint": "Xazinani kim topgan?",
+    "difficulty": "qiyin",
+    "reward": 10
+  },
+  {
+    "id": 29,
+    "title": "🌌 Astronavtning Sirli O‘limi",
+    "story": "Kosmonavt o‘quv markazida o‘lik holda topildi. Uning skafandrida teshik bor, lekin markazda hech qanday o‘tkir asbob yo‘q.",
+    "suspects": ["Muhandis", "Shifokor", "Boshqa Kosmonavt"],
+    "clues": [
+      "Muhandis skafandrni ta’mirlagan",
+      "Shifokor marhumning qonini olgan",
+      "Boshqa kosmonavt lavozimga intiladi"
+    ],
+    "correct": "Muhandis",
+    "hint": "Skafandrni kim ta’mirlagan?",
+    "difficulty": "qiyin",
+    "reward": 10
+  },
+  {
+    "id": 30,
+    "title": "🧛 Qo‘rqinchli Qasrdagi Sir",
+    "story": "Qadimiy qasrda kechasi qichqiriq eshitildi. Ertalab qasr egasi qon ichida yotgan holda topildi. Kimdir vampirga o‘xshash niqob kiygan.",
+    "suspects": ["Xizmatkor", "Mehmon", "Qasr Egasi O‘g‘li"],
+    "clues": [
+      "Xizmatkor qasrda 30 yil ishlagan",
+      "Mehmon qasr haqida kitob yozgan",
+      "O‘g‘li merosni kutib yurgan"
+    ],
+    "correct": "O‘g‘li",
+    "hint": "Merosni kim oladi?",
+    "difficulty": "qiyin",
+    "reward": 10
+  },
+  {
+    "id": 31,
+    "title": "💀 Qotilni O‘zi Chaqqan Ilon",
+    "story": "Tropik orolda bir tadqiqotchi o‘lik topildi. U zaharli ilon chaqib o‘ldirilgan, lekin ilon ham o‘lik holda topilgan.",
+    "suspects": ["Yordamchi", "Hamkasb", "Mahalliy"],
+    "clues": [
+      "Ilonning og‘zida yordamchining izi",
+      "Hamkasb ilonlarni yaxshi biladi",
+      "Mahalliy ilonni ushlagan"
+    ],
+    "correct": "Yordamchi",
+    "hint": "Ilon kimning izini olgan?",
+    "difficulty": "qiyin",
+    "reward": 10
+  },
+  {
+    "id": 32,
+    "title": "🔮 Bashoratchining Sirli O‘limi",
+    "story": "Mashhur bashoratchi o‘z kabinetida o‘lik topildi. U o‘lim oldidan qotilning ismini yozib qoldirgan.",
+    "suspects": ["Mijoz", "Raqib", "Shogird"],
+    "clues": [
+      "Yozuvda faqat birinchi harf bor",
+      "Raqib bashoratchining ishini olmoqchi",
+      "Shogird bashoratchiga qarz edi"
+    ],
+    "correct": "Raqib",
+    "hint": "Yozuvdagi harfga e’tibor bering",
+    "difficulty": "qiyin",
+    "reward": 10
+  },
+  {
+    "id": 33,
+    "title": "🧊 Muzdagi Qonli Izlar",
+    "story": "Muzli ko‘lda baliqchi o‘lik topildi. Uning yonida qonli izlar bor, lekin muzda hech qanday oyoq izi yo‘q.",
+    "suspects": ["Baliqchi Do‘sti", "Qishloq Aholisi", "Qo‘riqchi"],
+    "clues": [
+      "Do‘sti muzni sindirgan",
+      "Qishloq aholisi baliqchini yoqtirmasdi",
+      "Qo‘riqchi tunda yo‘q edi"
+    ],
+    "correct": "Baliqchi Do‘sti",
+    "hint": "Muzga iz qoldirmasdan qanday borish mumkin?",
+    "difficulty": "qiyin",
+    "reward": 10
+  },
+  {
+    "id": 34,
+    "title": "🕋 Qadimiy Ma’bad Xazinasi",
+    "story": "Qadimiy ma’badni o‘rganayotgan arxeologlar guruhi ma’bad ichida qotillik sodir bo‘lganini topdi. Qurbongohda qon va qotilning xanjari bor.",
+    "suspects": ["Arxeolog 1", "Arxeolog 2", "Mahalliy"],
+    "clues": [
+      "Xanjarda arxeolog 1 barmoq izi",
+      "Arxeolog 2 xazinani topgan",
+      "Mahalliy ma’badga kirmagan"
+    ],
+    "correct": "Arxeolog 1",
+    "hint": "Xanjarda kimning barmoq izi?",
+    "difficulty": "qiyin",
+    "reward": 10
+  },
+  {
+    "id": 35,
+    "title": "👻 Sharpali Uydagi Sirli O‘lim",
+    "story": "Mashhur sharpali uyda bir odam qo‘rquvdan vafot etgan deb hisoblangan, ammo uning tanasida zahar izlari topildi.",
+    "suspects": ["Uy Egasi", "Turist", "Gid"],
+    "clues": [
+      "Uy egasi sharpalar haqida gap tarqatgan",
+      "Turist qimmatbaho buyumni o‘g‘irlagan",
+      "Gid zaharli o‘simliklarni yaxshi biladi"
+    ],
+    "correct": "Uy Egasi",
+    "hint": "Sharpalar haqida kim gap tarqatgan?",
+    "difficulty": "qiyin",
+    "reward": 10
+  }
+]
